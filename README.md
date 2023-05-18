@@ -34,7 +34,7 @@ Das Weltzerstörungsprojekt ist ein Generationenprojekt, an welchem im laufe der
 
 `Projektmitglieder`: *SELECT * FROM 'ATS'.'Projektlabor'*
 
-`Projektbegin`: `Unbekannt`
+`Projektbegin`: `2018`
 
 `Projektstatus`: `Inaktiv, aber nicht beendet`
 
