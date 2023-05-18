@@ -20,7 +20,7 @@ abgespielt werden.
 `Projektrepositorys`:
 |Name|Beschreibung|
 |-|-|
-|[Dokumentation](https://github.com/artandtechspace/Poxelbox-Dokumentation)|Dieses Repository mit der Hauptdokumentation über das gesamte Projekt|
+|[Dokumentation](https://github.com/artandtechspace/Poxelbox-Dokumentation)|Dieses Repository enthält die Dokumentation über das Projekt.|
 |[Controller-Adapter](https://github.com/artandtechspace/Poxelbox-Controller-Adapter)|Software für den Controller-Adapter|
 |[Haupt-Software](https://github.com/artandtechspace/Poxelbox)|Software, welche die Spiele/Animation etc. bereitstellt und sozusagen das Hirn ist.|
 |[Java-Config-Tool](https://github.com/artandtechspace/Poxelbox-Configtool-Java)|Java-application zur Konfiguration der Poxelbox|
@@ -41,6 +41,7 @@ Das Weltzerstörungsprojekt ist ein Generationenprojekt, an welchem im laufe der
 `Projektrepositorys`:
 |Name|Beschreibung|
 |----|----------|
+|[Dokumentation](https://github.com/artandtechspace/Weltzerstoerungsknopf-Dokumentation)|Dieses Repository enthält die Dokumentation über das Projekt.|
 |[RPI-Software-Repo](https://github.com/artandtechspace/Weltzerstoerungsknopf-Software)|Python-Software, welche den Knopf steuert. Sozusagen das Gehirn.|
 |[Configuration-Interface](https://github.com/artandtechspace/Weltzerstoerungsknopf-Configinterface)|Webapp, welche über die Python-Software ausgeliefert wird und zur Konfiguration dient.|
 
